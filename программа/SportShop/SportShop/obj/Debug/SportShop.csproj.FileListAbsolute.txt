@@ -1,0 +1,32 @@
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.Authorization.resources
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.Catalog_Form.resources
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\Fedor\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\bin\Debug\SportShop.exe.config
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\bin\Debug\SportShop.exe
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\bin\Debug\SportShop.pdb
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.csprojResolveAssemblyReference.cache
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.adminForm.resources
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.Authorization.resources
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.Cart.resources
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.Catalog_Form.resources
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.exe
+H:\Кульнев Фёдор\демоэкзамен\SportShop\SportShop\obj\Debug\SportShop.pdb
+H:\Кульнев Фёдор\программа\SportShop\SportShop\bin\Debug\SportShop.exe.config
+H:\Кульнев Фёдор\программа\SportShop\SportShop\bin\Debug\SportShop.exe
+H:\Кульнев Фёдор\программа\SportShop\SportShop\bin\Debug\SportShop.pdb
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.csprojResolveAssemblyReference.cache
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.adminForm.resources
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.Authorization.resources
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.Cart.resources
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.Catalog_Form.resources
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.exe
+H:\Кульнев Фёдор\программа\SportShop\SportShop\obj\Debug\SportShop.pdb
